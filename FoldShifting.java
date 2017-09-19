@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Set;
 
 
-public class Foldshifting {
+public class FoldShifting {
 	
 	public static void getEncoding(String key)
 	{		
